@@ -1,5 +1,5 @@
 # Collection of my git combos 
-![Alt Text](https://github.com/1vid/my_git/blob/master/ezgif.com-gif-maker.gif)
+![Alt Text](https://github.com/1vid/my_git/blob/master/samurai.gif)
 
 ### Force "git pull" to overwrite local files
 
