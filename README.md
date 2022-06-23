@@ -1,4 +1,5 @@
-# my_git is a collection of my combos 
+# collection of my combos 
+![Alt Text](https://github.com/1vid/my_git/blob/master/ezgif.com-gif-maker.gif)
 
 ### Force "git pull" to overwrite local files
 
