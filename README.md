@@ -29,3 +29,14 @@ git add <file> or .
 git commit --amend
 git push -f
 ```
+### Set push to different repo
+
+set
+```
+git remote set-url --push origin git@github.com:<username>/<repository_name>.git
+```
+
+check
+```
+git remote -v
+```
