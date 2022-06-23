@@ -21,3 +21,10 @@ OR If you are on some other branch:
 ```
 git reset --hard origin/<branch_name>
 ```
+### Update last commit on remote repo
+
+```
+git add <file> or .
+git commit --amend
+git push -f
+```
