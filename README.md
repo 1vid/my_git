@@ -51,3 +51,11 @@ git stash
 ```
 git clean -df
 ```
+
+### Set and checkout branch locally from remote repo
+
+```
+git checkout -b <local branch> origin/<remote branch>
+```
+
+in my opinion local and remote branches should nemaed same way
