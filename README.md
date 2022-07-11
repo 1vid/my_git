@@ -40,3 +40,14 @@ check
 ```
 git remote -v
 ```
+### Remove all changes inserts into tree after pull
+
+hide changes
+```
+git stash
+```
+
+[clean](https://git-scm.com/docs/git-clean/2.23.0)
+```
+git clean -df
+```
